@@ -16,7 +16,7 @@ The research targets the SDN controller—a centralized yet vulnerable component
 
 ---
 
-## 🚀 Highlights
+##  Highlights
 
 - **Dataset**: CICDDoS2019  
 - **Preprocessing**:
@@ -31,7 +31,7 @@ The research targets the SDN controller—a centralized yet vulnerable component
 
 ---
 
-## 📊 Results
+##  Results
 
 - VGG16-based IDS demonstrated superior accuracy, precision, recall, and F1-score compared to baseline CNN and classical ML models (ID3, RF, Naïve Bayes)
 - Real-time controller-based mitigation is achieved through automated flow rule updates
@@ -39,5 +39,4 @@ The research targets the SDN controller—a centralized yet vulnerable component
 
 ---
 
-## 📂 Repository Structure
 
