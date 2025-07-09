@@ -1,4 +1,4 @@
-# 📘 Master Thesis: DDoS Attacks Detection and Mitigation in SDN using Deep Learning Approaches
+#  Master Thesis: DDoS Attacks Detection and Mitigation in SDN using Deep Learning Approaches
 
 This repository contains all supporting materials for my master's thesis conducted at the Communication Networks Group, Technische Universität Ilmenau, Department of Electrical Engineering and Information Technology.
 
@@ -8,7 +8,7 @@ This repository contains all supporting materials for my master's thesis conduct
 
 ---
 
-## 🧠 Abstract
+##  Abstract
 
 This work explores the detection and mitigation of **Distributed Denial-of-Service (DDoS) attacks** in **Software-Defined Networking (SDN)** environments using **deep learning techniques**, specifically a **VGG16-based Convolutional Neural Network (CNN)** architecture.
 
