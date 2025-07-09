@@ -39,4 +39,20 @@ The research targets the SDN controller—a centralized yet vulnerable component
 
 ---
 
+---
+
+##  Related Publication
+
+This work is extended and peer-reviewed in the following conference paper.  
+**If you use this repository’s code, dataset preparation, or methods, please cite:**
+
+@INPROCEEDINGS{10271630,
+author={Muhammad, Mamdouh and Alshra‘a, Abdullah S. and German, Reinhard},
+title={An IDS for DDoS Attacks in SDN using VGG-Based CNN Architecture},
+booktitle={2023 International Conference on Software, Telecommunications and Computer Networks (SoftCOM)},
+year={2023},
+pages={1-7},
+doi={10.23919/SoftCOM58365.2023.10271630}
+}
+
 
