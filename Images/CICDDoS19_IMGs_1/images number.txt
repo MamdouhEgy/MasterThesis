@@ -1,0 +1,48 @@
+First day:
+Syn part: 1582682 row > 7666 Image (Attack)     2 Images (Benign)
+UDP part: 3136803 row > 17188 Image (Attack)	11 Images (Benign)
+DNS part: 5074414 row > 27270 Image (Attack)
+
+
+
+
+
+
+
+Second day:
+Syn: 4320541 row > 22233 Image (Attack)	       	195 Images (Benign)
+UDP: 3782207 row > 20567 Image (Attack)		17  Images (Benign)
+
+
+
+
+CICIDS2017:					 2940 Image (Benign)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+find /c /v "A String that is extremely unlikely to occur" Syn.csv
